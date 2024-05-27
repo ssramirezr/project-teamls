@@ -14,6 +14,7 @@ Development of the final project for the subject of Formal Languages and Compile
 - The program was executed on Windows OS.
 - The chosen language was Python.
 - The code editor used was Visual Studio Code.
+- Output is shown after having entered all the grammars.
 
 ## Run The Program
 
@@ -27,7 +28,7 @@ Follow these instructions to run the program:
 2. Go to the project directory (or wherever you stored it).
 
     ```bash
-    cd assignment2
+    cd project
     ```
   
 3. Make sure you have Python. Now you are ready to run the program.
@@ -48,13 +49,13 @@ Follow these instructions to run the program:
 4. Enter the number of grammars to process, for example:
 
     ```bash
-       1
+     1
     ```
     
 4. Enter the number of rules, for example:
 
     ```bash
-      3
+     3
     ```
     
 4. Enter production rules, for example:
