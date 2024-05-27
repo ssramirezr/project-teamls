@@ -22,7 +22,7 @@ Follow these instructions to run the program:
 1. Clone the project on your machine or download the ZIP file.
 
     ```bash
-    git clone https://github.com/ssramirezr/assignment-2-assignment2-teamsl.git
+    git clone https://github.com/ssramirezr/project-teamls.git
     ```
 2. Go to the project directory (or wherever you stored it).
 
